@@ -1,0 +1,7 @@
+"variable","label","setting","file","players","teams","observed_control_pct","observed_treated_pct","adjusted_effect_pp","clustered_se_pp","lower_95_pp","upper_95_pp"
+"train_t1","Trained with Muslims six months later","Soccer-related","waves-1-and-2.csv",459,42,17.9389312977099,61.4213197969543,48.6073981443228,13.1543088009677,22.8254266529078,74.3893696357378
+"voted_muslim_extra","Voted for a Muslim player for an award","Soccer-related","wave-2.csv",183,28,30.6818181818182,53.6842105263158,26.298882452387,8.75324685989215,9.14283385921004,43.4549310455639
+"own_group_preference","Open to playing on a mixed team","Soccer-related","wave-2.csv",232,28,46.875,60.5769230769231,12.6686389835305,6.29358716296599,0.333434810553575,25.0038431565075
+"went_mosul","Redeemed a restaurant voucher in Mosul","Outside soccer","mosul-outcome-wave-2.csv",318,28,23.0337078651685,31.4285714285714,11.3461538461539,8.12813102571567,-4.58469022587143,27.2769979181792
+"attend","Attended a mixed social event","Outside soccer","waves-1-and-2.csv",459,42,33.206106870229,39.5939086294416,3.50816685413894,9.32389715494191,-14.7663357651027,21.7826694733806
+"donate_t1_new1","Chose a charity serving both communities","Outside soccer","wave-2.csv",221,28,69.9186991869919,72.4489795918367,-0.381597185976879,5.03640794390401,-10.2527753674802,9.48958099552641
