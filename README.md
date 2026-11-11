@@ -1,6 +1,6 @@
 # AQRD projects in R
 
-These are a few projects from my Applied Quantitative Research Design class. i put them here with the R code where I have it, and some notes about what I was trying to figure out.
+These are a few projects from my Applied Quantitative Research Design class. I put them here with the R code where I have it, and some notes about what I was trying to figure out.
 
 | Post | What I worked on |
 | --- | --- |
