@@ -2,6 +2,12 @@
 
 These are a few projects from my Applied Quantitative Research Design class. I put them here with the R code where I have it, and some notes about what I was trying to figure out.
 
+## Mastering ’Metrics in R
+
+Five studies using the first five chapters, with public datasets, R scripts, figures, and results. [Read the series](mastering-metrics/).
+
+## AQRD coursework
+
 | Post | What I worked on |
 | --- | --- |
 | [Economic shocks and civil conflict](01-economic-shocks-and-conflict.md) | Instrumental variables and country panels |
