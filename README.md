@@ -2,6 +2,10 @@
 
 These are a few projects from my Applied Quantitative Research Design class. I put them here with the R code where I have it, and some notes about what I was trying to figure out.
 
+## Independent replication
+
+I rebuilt six effects from Salma Mousa’s randomized soccer study in Iraq, then checked how much the training estimate changed when I left out each team in turn. [Read the Iraq soccer replication](iraq-soccer-replication/).
+
 ## Mastering ’Metrics in R
 
 Five studies using the first five chapters, with public datasets, R scripts, figures, and results. [Read the series](mastering-metrics/).
